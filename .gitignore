@@ -1,0 +1,12 @@
+# Node
+node_modules/
+
+# Environment Variables
+.env
+
+# Build / Distribution
+dist/
+
+# LOGS
+combined.log
+error.log
